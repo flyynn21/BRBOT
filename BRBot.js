@@ -240,7 +240,7 @@
         status: false,
         name: "BrasileiríssimosBOT",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/flyynn21/BRBOT/master/Bot.js",
+        scriptLink: "https://rawgit.com/flyynn21/BRBOT/master/BRBot.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
         chat: null,
@@ -251,7 +251,7 @@
             botName: "BrasileiríssimosBOT",
             language: "english",
             chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
-            scriptLink: "https://rawgit.com/flyynn21/BRBot/master/Bot.js",
+            scriptLink: "https://rawgit.com/flyynn21/BRBot/master/BRBot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
